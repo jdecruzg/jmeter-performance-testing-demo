@@ -1,0 +1,4 @@
+results/
+reports/
+*.log
+.DS_Store
